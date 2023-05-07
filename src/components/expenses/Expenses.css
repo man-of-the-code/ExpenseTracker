@@ -1,0 +1,12 @@
+.expenses {
+    background-color: rgb(31, 31, 31);
+    padding: 1rem;
+    width: 50rem;
+    max-width: 95%;
+    margin: 2rem auto;
+    box-shadow: 0 0px 30px 11px rgb(72, 0, 255);
+    border-radius: 12px;
+}
+
+
+/* rgb(195, 255, 0); */
