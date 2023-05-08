@@ -30,7 +30,7 @@ const ExpenseItem = (props) => {
         <input type='text' value={newTitle} onChange={changeHandler} />
         </CardG>
 
-        <CardG>
+        <CardG className='button'>
         <button onClick={clickHandler}>Change Title</button>
         </CardG>
         

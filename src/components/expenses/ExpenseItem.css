@@ -40,6 +40,10 @@
   font-size: 1.25rem;
 }
 
+.expense-item button{
+  color: black;
+  background-color: #005d13;
+}
 
 @media (min-width: 580px){
   .expense-item__description{
