@@ -1,0 +1,9 @@
+.cardg{
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: #005d13;
+    border: 1px solid black;
+    padding: 0.5rem;
+    border-radius: 12px;
+}
