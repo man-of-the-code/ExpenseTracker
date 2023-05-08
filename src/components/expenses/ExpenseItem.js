@@ -11,6 +11,7 @@ const ExpenseItem = (props) => {
 
   const clickHandler = () => {
     setTitle(newTitle);
+    setNewTitle("");
   }
 
   const changeHandler = (event) => {
