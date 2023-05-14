@@ -1,4 +1,5 @@
 from gtts import gTTS
+# before using the above library , first install that with the help of command : pip install gtts -|
 
 # language = "en" 
 language = "hi"
