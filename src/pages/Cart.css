@@ -1,0 +1,16 @@
+.cartWrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.cartCard{
+border: 2px solid cyan;
+text-align: center;
+width: 20vw;
+height: 40vh;
+font-size: 10px;
+margin: 15px 0px;
+padding: 15px 15px;
+background-color: aqua;
+}
